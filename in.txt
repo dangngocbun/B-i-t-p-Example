@@ -1,0 +1,16 @@
+#sv1
+name:binh
+old:12
+mark:7
+#sv2
+name:hung
+old:13
+mark:8
+#tc1
+name:huy
+old:23
+salary:8
+#tc2
+name:long
+old:26
+salary:9
